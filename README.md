@@ -17,9 +17,6 @@ The program will display both your choice and the computer's choice, then declar
 
 ⚙️ Installation and Setup
 This project requires only Python and its built-in modules.
-Clone the repository:
-    git clone [YOUR-REPO-URL]
-    cd rock-paper-scissors
 Run the game:
     python rock,paper and scissors.py  
 
